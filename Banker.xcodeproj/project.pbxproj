@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		4C90C9B424E11E9300F6B46F /* Banker */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Banker; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C90C9B724E11E9300F6B46F /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		4C90C9BE24E11F3300F6B46F /* Banker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Banker.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				4C90C9B724E11E9300F6B46F /* main.cpp */,
+				4C90C9BE24E11F3300F6B46F /* Banker.h */,
 			);
 			path = Banker;
 			sourceTree = "<group>";
